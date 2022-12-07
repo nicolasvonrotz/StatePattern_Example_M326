@@ -1,0 +1,8 @@
+C:\Users\vmadmin\Desktop\GumballDotNet Version 1 ohne State\GumballDotNet\bin\Debug\GumballDotNet.exe.config
+C:\Users\vmadmin\Desktop\GumballDotNet Version 1 ohne State\GumballDotNet\bin\Debug\GumballDotNet.exe
+C:\Users\vmadmin\Desktop\GumballDotNet Version 1 ohne State\GumballDotNet\bin\Debug\GumballDotNet.pdb
+C:\Users\vmadmin\Desktop\GumballDotNet Version 1 ohne State\GumballDotNet\obj\Debug\GumballDotNet.csproj.AssemblyReference.cache
+C:\Users\vmadmin\Desktop\GumballDotNet Version 1 ohne State\GumballDotNet\obj\Debug\GumballDotNet.csproj.SuggestedBindingRedirects.cache
+C:\Users\vmadmin\Desktop\GumballDotNet Version 1 ohne State\GumballDotNet\obj\Debug\GumballDotNet.csproj.CoreCompileInputs.cache
+C:\Users\vmadmin\Desktop\GumballDotNet Version 1 ohne State\GumballDotNet\obj\Debug\GumballDotNet.exe
+C:\Users\vmadmin\Desktop\GumballDotNet Version 1 ohne State\GumballDotNet\obj\Debug\GumballDotNet.pdb
